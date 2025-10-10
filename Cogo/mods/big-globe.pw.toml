@@ -1,0 +1,13 @@
+name = "Big Globe"
+filename = "Big Globe-5.0.8-MC1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xsng1aJf/versions/XbnCagkV/Big%20Globe-5.0.8-MC1.20.1.jar"
+hash-format = "sha512"
+hash = "03d79e5ada28d1dce1849a0398fc22f718f96bd0ae7ca7676e59e0ff95393f7ee3190a48784d018dd8acd1d86ea50b4a0d2fe54c9cde4e5ead7643aa554be044"
+
+[update]
+[update.modrinth]
+mod-id = "xsng1aJf"
+version = "XbnCagkV"
