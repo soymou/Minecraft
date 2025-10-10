@@ -1,0 +1,13 @@
+name = "Cogo"
+author = "mou"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b729b7f7d999ec0a09bc2543d6302bd083556a59440028932fb982bd1dacc206"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
